@@ -123,3 +123,6 @@ while True:
 
 # Keluar
 ![image5](Screenshot/Output%20Keluar.png)
+
+# FlowChart
+![image6](Screenshot/Flowchart.jpg)
